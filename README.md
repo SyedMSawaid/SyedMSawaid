@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my personal portfolio website(https://syedmsawaid.com) and a side project.
+- 🌱 I’m currently learning Angular and trying to get advance understanding of .NET platform
+- 📫 How to reach me on twitter (@SyedMSawaid)
+- 😄 Pronouns: Anything you like.
+
 <!--
 **SyedMSawaid/SyedMSawaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
